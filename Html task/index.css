@@ -1,0 +1,82 @@
+sub{
+    position: absolute;
+    margin-top: 200px;
+    height: 450px;
+
+}
+.sub-1{
+    background-color: aliceblue;
+    float: right;
+    width: 800px;
+    text-align: center;
+    height: auto;
+    text-align: center;
+
+}
+.name{
+    width: 260px;
+    margin: 30px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+}
+.email{
+    width: 260px;
+    margin: 30px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+}
+.message{
+    width: 260px;
+    margin: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+}
+.button{
+    
+    margin: 20px;
+    height: 40px;
+    text-align: center;
+    width: 120px;
+    
+}
+.button:active{
+    background-color: black;
+    color: aliceblue;
+}
+.img{
+    height: 550px;
+}
+.last{
+    position: relative;
+    /* top: 20px; */
+    right: 140px;
+    background-color: black;
+    height: 145px;
+    width: 860px;
+    display: flex;
+    float: right;
+    /* margin: 10px; */
+    width: auto;
+    margin-bottom: 50px;
+}
+.call{
+    color: aliceblue;
+    width: 260px;
+    padding-right: 20px;
+}
+.im{
+    width: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.p{
+    font-size: 15px;
+}
